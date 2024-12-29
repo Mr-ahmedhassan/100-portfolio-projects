@@ -1,0 +1,12 @@
+import requests
+from bs4 import BeautifulSoup
+
+url = "https://www.bbc.com/arabic/news"
+response = requests.get(url)
+
+soup = BeautifulSoup(response.content, 'html.parser')
+
+news_headings = soup.find_all('h3', class_='story-body__h3')
+
+for heading in news_headings:
+    print(heading.text.strip())
