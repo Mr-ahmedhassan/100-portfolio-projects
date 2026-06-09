@@ -17,7 +17,7 @@ This dashboard replicates a real-world FP&A management reporting framework, desi
 | Profit Margin | 14.1% | 14.7% | -0.6pp | -3.97% |
 | Total Discounts | $7.06M | $2.15M | +$4.91M | +229.0% |
 
-> ⚠️ ** Note:** Revenue grew 3.5x YoY, but margin compression of -0.6pp signals that discount intensity (+229%) is outpacing profit growth — a key area for pricing strategy review.
+> ⚠️** Note:** Revenue grew 3.5x YoY, but margin compression of -0.6pp signals that discount intensity (+229%) is outpacing profit growth — a key area for pricing strategy review.
 
 ---
 
