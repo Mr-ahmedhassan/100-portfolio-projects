@@ -17,7 +17,7 @@ This dashboard replicates a real-world FP&A management reporting framework, desi
 | Profit Margin | 14.1% | 14.7% | -0.6pp | -3.97% |
 | Total Discounts | $7.06M | $2.15M | +$4.91M | +229.0% |
 
-> ⚠️ **FP&A Note:** Revenue grew 3.5x YoY, but margin compression of -0.6pp signals that discount intensity (+229%) is outpacing profit growth — a key area for pricing strategy review.
+> ⚠️ ** Note:** Revenue grew 3.5x YoY, but margin compression of -0.6pp signals that discount intensity (+229%) is outpacing profit growth — a key area for pricing strategy review.
 
 ---
 
@@ -29,10 +29,10 @@ This dashboard replicates a real-world FP&A management reporting framework, desi
 | Channel Partners | $1,316,803 | 73.1% | ✅ High-margin, low-volume |
 | Government | $11,388,173 | 21.7% | ✅ Largest profit contributor |
 | Midmarket | $660,103 | 27.7% | ✅ Stable |
-| Small Business | ~$4M | — | ✅ Positive |
+| Small Business | $4,143,169 | %9.8 | ✅ Positive |
 | Enterprise | ($614,546) | -3.1% | 🔴 Loss-making — requires strategic review |
 
-> **Management Insight:** The Enterprise segment is the only negative-margin segment. Despite generating order volume, it is destroying shareholder value. Recommend a cost structure review or repricing strategy.
+> **Management Insight:** Enterprise segment is the only negative-margin segment. Despite generating order volume, it is destroying shareholder value. Recommend cost structure review or repricing strategy.
 
 ---
 
@@ -41,7 +41,7 @@ This dashboard replicates a real-world FP&A management reporting framework, desi
 - 🇫🇷 France: 15.5% | 🇨🇦 Canada: 14.2% | 🇲🇽 Mexico: 13.9%
 - 🇺🇸 United States: **12.0%** — highest order volume market but lowest margin
 
-> **FP&A Flag:** The US leads in volume (high AOV via Small Business at $424K) but trails in margin — indicating potential over-discounting or unfavorable sales mix. Warrants a revenue quality review.
+> **Flag:** The US leads in volume (high AOV via Small Business at $424K) but trails in margin — indicating potential over-discounting or unfavorable sales mix. Warrants a revenue quality review.
 
 ---
 
@@ -92,5 +92,4 @@ Monthly sales fluctuate between $5M–$10M with visible seasonality peaks in mid
 
 ## 👤 Author
 **Ahmed Hassan** | FP&A & Business Intelligence
-[LinkedIn](http://www.linkedin.com/in/mr-ahmedhassan) | [GitHub](https://github.com/Mr-ahmedhassan)
-
+[LinkedIn]( LinkedIn) | [GitHub]( GitHub)
