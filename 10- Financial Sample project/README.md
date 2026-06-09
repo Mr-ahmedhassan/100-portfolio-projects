@@ -32,7 +32,7 @@ This dashboard replicates a real-world FP&A management reporting framework, desi
 | Small Business | $4,143,169 | %9.8 | ✅ Positive |
 | Enterprise | ($614,546) | -3.1% | 🔴 Loss-making — requires strategic review |
 
-> **Management Insight:** Enterprise segment is the only negative-margin segment. Despite generating order volume, it is destroying shareholder value. Recommend cost structure review or repricing strategy.
+> **Management Insight:** The Enterprise segment is the only negative-margin segment. Despite generating order volume, it is destroying shareholder value. Recommend a cost structure review or repricing strategy.
 
 ---
 
@@ -92,4 +92,4 @@ Monthly sales fluctuate between $5M–$10M with visible seasonality peaks in mid
 
 ## 👤 Author
 **Ahmed Hassan** | FP&A & Business Intelligence
-[LinkedIn]( LinkedIn) | [GitHub]( GitHub)
+[LinkedIn](www.linkedin.com/in/mr-ahmedhassan) | [GitHub](https://github.com/Mr-ahmedhassan)
