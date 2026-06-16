@@ -115,7 +115,7 @@ An end-to-end sales analytics project covering a full year of pizza sales data (
 ---
 
 ## 🔗 Links
-- 📁 Full Portfolio: [99 Projects Portfolio Series]((https://surl.li/ivvrkv)
+- 📁 Full Portfolio: [99 Projects Portfolio Series](https://github.com/Mr-ahmedhassan)
 - 📊 Tableau Public Profile: [View on Tableau](https://surl.li/hdpiwz)
 
 ---
